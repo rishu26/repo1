@@ -1,0 +1,6 @@
+API_KEY = "abcdetg124516dhyc653fdus7"
+password = abcdfg1
+AWS_SECRET = akajj839701
+AWS_ACCESS = akputgdajanb
+pass = 91182n
+db.password = najannxa
